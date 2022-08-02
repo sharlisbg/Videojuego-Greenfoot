@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Pista4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pista4\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Pista4()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pista2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=private\ void\ prepare()\r\n\ \ \ \ {\r\n\ \ \ \ kirby2\ kirby2\ \=\ new\ kirby2();\r\n\ \ \ \ addObject(kirby2,257,396);\r\n\ \ \ \ kirby2.setLocation(233,364);\r\n\ \ \ \ instrucciones1\ instrucciones1\ \=\ new\ instrucciones1();\r\n\ \ \ \ addObject(instrucciones1,156,499);\r\n\ \ \ \ instrucciones1.setLocation(324,499);\r\n\ \ \ \ instrucciones1.setLocation(135,495);\r\n\ \ \ \ instrucciones1.setLocation(220,500);\r\n\ \ \ \ kirby2.setLocation(36,270);\r\n}
+comment3.params=start\ end
+comment3.target=int\ getRandomNumber(int,\ int)
+comment4.params=valor
+comment4.target=void\ aumentar_puntuacion(int)
+comment5.params=
+comment5.target=void\ aumentar_num_adelantamientos()
+comment6.params=
+comment6.target=void\ disminuir_num_rivales()
+comment7.params=
+comment7.target=void\ anadir_rivales()
+numComments=8
